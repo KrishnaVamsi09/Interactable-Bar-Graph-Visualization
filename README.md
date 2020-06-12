@@ -1,2 +1,2 @@
-# Visualization
+# Bar Graph Visualization.
 Interactable Graphs
